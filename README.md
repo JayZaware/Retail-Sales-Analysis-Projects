@@ -84,5 +84,4 @@ Superstore Retail Sales Dataset
 - Certain products generated losses despite high sales
 - A small group of customers contributed significantly to total revenue
 
-## Author
-[Your Name]
+
